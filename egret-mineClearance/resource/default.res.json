@@ -1,0 +1,31 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,number_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "number_json",
+			"type": "sheet",
+			"url": "assets/number.json",
+			"subkeys": "0_png,1_png,2_png,3_png,4_png,5_png,6_png,7_png,bomb_png,flag_png,none_png,fail_png"
+		}
+	]
+}

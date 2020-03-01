@@ -1,0 +1,240 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,ufo2_png,background_png,bomb_png,btn_finish_png,btn_start_png,enemy1_png,bullet2_png,bullet1_png,enemy1_down1_png,enemy1_down3_png,enemy1_down2_png,enemy1_down4_png,enemy2_png,enemy2_down1_png,enemy2_down2_png,enemy2_down3_png,enemy2_down4_png,enemy2_hit_png,enemy3_down1_png,enemy3_down2_png,enemy3_down3_png,enemy3_down4_png,enemy3_down5_png,enemy3_down6_png,enemy3_n2_png,enemy3_n1_png,enemy3_hit_png,game_loading1_png,game_loading2_png,game_loading3_png,game_loading4_png,game_over_png,game_pause_nor_png,game_pause_pressed_png,hero_blowup_n1_png,game_resume_nor_png,game_resume_pressed_png,hero_blowup_n2_png,hero_blowup_n3_png,hero1_png,hero2_png,hero_blowup_n4_png,life_png,shoot_copyright_png,ufo1_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "ufo2_png",
+			"type": "image",
+			"url": "assets/ufo2.png"
+		},
+		{
+			"name": "background_png",
+			"type": "image",
+			"url": "assets/background.png"
+		},
+		{
+			"name": "bomb_png",
+			"type": "image",
+			"url": "assets/bomb.png"
+		},
+		{
+			"name": "btn_finish_png",
+			"type": "image",
+			"url": "assets/btn_finish.png"
+		},
+		{
+			"name": "btn_start_png",
+			"type": "image",
+			"url": "assets/btn_start.png"
+		},
+		{
+			"name": "enemy1_png",
+			"type": "image",
+			"url": "assets/enemy1.png"
+		},
+		{
+			"name": "bullet2_png",
+			"type": "image",
+			"url": "assets/bullet2.png"
+		},
+		{
+			"name": "bullet1_png",
+			"type": "image",
+			"url": "assets/bullet1.png"
+		},
+		{
+			"name": "enemy1_down1_png",
+			"type": "image",
+			"url": "assets/enemy1_down1.png"
+		},
+		{
+			"name": "enemy1_down3_png",
+			"type": "image",
+			"url": "assets/enemy1_down3.png"
+		},
+		{
+			"name": "enemy1_down2_png",
+			"type": "image",
+			"url": "assets/enemy1_down2.png"
+		},
+		{
+			"name": "enemy1_down4_png",
+			"type": "image",
+			"url": "assets/enemy1_down4.png"
+		},
+		{
+			"name": "enemy2_png",
+			"type": "image",
+			"url": "assets/enemy2.png"
+		},
+		{
+			"name": "enemy2_down1_png",
+			"type": "image",
+			"url": "assets/enemy2_down1.png"
+		},
+		{
+			"name": "enemy2_down2_png",
+			"type": "image",
+			"url": "assets/enemy2_down2.png"
+		},
+		{
+			"name": "enemy2_down3_png",
+			"type": "image",
+			"url": "assets/enemy2_down3.png"
+		},
+		{
+			"name": "enemy2_down4_png",
+			"type": "image",
+			"url": "assets/enemy2_down4.png"
+		},
+		{
+			"name": "enemy2_hit_png",
+			"type": "image",
+			"url": "assets/enemy2_hit.png"
+		},
+		{
+			"name": "enemy3_down1_png",
+			"type": "image",
+			"url": "assets/enemy3_down1.png"
+		},
+		{
+			"name": "enemy3_down2_png",
+			"type": "image",
+			"url": "assets/enemy3_down2.png"
+		},
+		{
+			"name": "enemy3_down3_png",
+			"type": "image",
+			"url": "assets/enemy3_down3.png"
+		},
+		{
+			"name": "enemy3_down4_png",
+			"type": "image",
+			"url": "assets/enemy3_down4.png"
+		},
+		{
+			"name": "enemy3_down5_png",
+			"type": "image",
+			"url": "assets/enemy3_down5.png"
+		},
+		{
+			"name": "enemy3_down6_png",
+			"type": "image",
+			"url": "assets/enemy3_down6.png"
+		},
+		{
+			"name": "enemy3_n2_png",
+			"type": "image",
+			"url": "assets/enemy3_n2.png"
+		},
+		{
+			"name": "enemy3_n1_png",
+			"type": "image",
+			"url": "assets/enemy3_n1.png"
+		},
+		{
+			"name": "enemy3_hit_png",
+			"type": "image",
+			"url": "assets/enemy3_hit.png"
+		},
+		{
+			"name": "game_loading1_png",
+			"type": "image",
+			"url": "assets/game_loading1.png"
+		},
+		{
+			"name": "game_loading2_png",
+			"type": "image",
+			"url": "assets/game_loading2.png"
+		},
+		{
+			"name": "game_loading3_png",
+			"type": "image",
+			"url": "assets/game_loading3.png"
+		},
+		{
+			"name": "game_loading4_png",
+			"type": "image",
+			"url": "assets/game_loading4.png"
+		},
+		{
+			"name": "game_over_png",
+			"type": "image",
+			"url": "assets/game_over.png"
+		},
+		{
+			"name": "game_pause_nor_png",
+			"type": "image",
+			"url": "assets/game_pause_nor.png"
+		},
+		{
+			"name": "game_pause_pressed_png",
+			"type": "image",
+			"url": "assets/game_pause_pressed.png"
+		},
+		{
+			"name": "hero_blowup_n1_png",
+			"type": "image",
+			"url": "assets/hero_blowup_n1.png"
+		},
+		{
+			"name": "game_resume_nor_png",
+			"type": "image",
+			"url": "assets/game_resume_nor.png"
+		},
+		{
+			"name": "game_resume_pressed_png",
+			"type": "image",
+			"url": "assets/game_resume_pressed.png"
+		},
+		{
+			"name": "hero_blowup_n2_png",
+			"type": "image",
+			"url": "assets/hero_blowup_n2.png"
+		},
+		{
+			"name": "hero_blowup_n3_png",
+			"type": "image",
+			"url": "assets/hero_blowup_n3.png"
+		},
+		{
+			"name": "hero1_png",
+			"type": "image",
+			"url": "assets/hero1.png"
+		},
+		{
+			"name": "hero2_png",
+			"type": "image",
+			"url": "assets/hero2.png"
+		},
+		{
+			"name": "hero_blowup_n4_png",
+			"type": "image",
+			"url": "assets/hero_blowup_n4.png"
+		},
+		{
+			"name": "life_png",
+			"type": "image",
+			"url": "assets/life.png"
+		},
+		{
+			"name": "shoot_copyright_png",
+			"type": "image",
+			"url": "assets/shoot_copyright.png"
+		},
+		{
+			"name": "ufo1_png",
+			"type": "image",
+			"url": "assets/ufo1.png"
+		}
+	]
+}

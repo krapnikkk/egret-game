@@ -1,0 +1,13 @@
+{"file":"number.png","frames":{
+"0_png":{"x":67,"y":1,"w":64,"h":64,"offX":0,"offY":0,"sourceW":64,"sourceH":64},
+"1_png":{"x":1,"y":199,"w":64,"h":64,"offX":0,"offY":0,"sourceW":64,"sourceH":64},
+"2_png":{"x":67,"y":67,"w":64,"h":64,"offX":0,"offY":0,"sourceW":64,"sourceH":64},
+"3_png":{"x":1,"y":67,"w":64,"h":64,"offX":0,"offY":0,"sourceW":64,"sourceH":64},
+"4_png":{"x":133,"y":67,"w":64,"h":64,"offX":0,"offY":0,"sourceW":64,"sourceH":64},
+"5_png":{"x":1,"y":1,"w":64,"h":64,"offX":0,"offY":0,"sourceW":64,"sourceH":64},
+"6_png":{"x":67,"y":133,"w":64,"h":64,"offX":0,"offY":0,"sourceW":64,"sourceH":64},
+"7_png":{"x":1,"y":133,"w":64,"h":64,"offX":0,"offY":0,"sourceW":64,"sourceH":64},
+"bomb_png":{"x":199,"y":57,"w":44,"h":60,"offX":10,"offY":1,"sourceW":64,"sourceH":64},
+"flag_png":{"x":199,"y":1,"w":54,"h":54,"offX":5,"offY":5,"sourceW":64,"sourceH":64},
+"none_png":{"x":133,"y":133,"w":64,"h":64,"offX":0,"offY":0,"sourceW":64,"sourceH":64},
+"fail_png":{"x":133,"y":1,"w":64,"h":64,"offX":0,"offY":0,"sourceW":64,"sourceH":64}}}

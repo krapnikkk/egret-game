@@ -1,0 +1,27 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/view/Enemy.js",
+		"bin-debug/Main.js",
+		"bin-debug/Util.js",
+		"bin-debug/event/Hit.js",
+		"bin-debug/event/Release.js",
+		"bin-debug/event/Shot.js",
+		"bin-debug/view/Bullet.js",
+		"bin-debug/view/SmallEnemy.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/view/EnemyFactory.js",
+		"bin-debug/view/GameScene.js",
+		"bin-debug/view/LargeEnemy.js",
+		"bin-debug/view/LittleEnemy.js",
+		"bin-debug/view/Player.js",
+		"bin-debug/view/BulletFactory.js"
+	]
+}

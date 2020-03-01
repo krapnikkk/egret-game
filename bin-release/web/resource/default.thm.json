@@ -1,8 +1,0 @@
-{
-	"autoGenerateExmlsList": true,
-	"exmls": [
-		"src/StartUISkin.exml",
-		"src/GameUISkin.exml"
-	],
-	"path": "resource/default.thm.json"
-}
