@@ -8,10 +8,10 @@
 
 | 标题  | 代码 |
 |:--------  |:--------:|
-| [微信飞机大战](https://krapnikkk.github.io/canvas_animation/demo/rotateArrow.html) |  [预览](./demo/rotateArrow.html) |
-| [扫雷游戏](https://krapnikkk.github.io/canvas_animation/demo/sineMotion.html) | [预览](./demo/sineMotion.html) |
-| [僵尸扫射](https://krapnikkk.github.io/canvas_animation/demo/circleMotion.html) |  [预览](./demo/circleMotion.html) |
-| [成语大作战](https://krapnikkk.github.io/canvas_animation/demo/moveArrow.html) | [预览](./demo/moveArrow.html) |
+| [微信飞机大战](https://krapnikkk.github.io/egret-game/egret-wxflight) |  [预览](./egret-wxflight) |
+| [扫雷游戏](https://krapnikkk.github.io/egret-game/egret-mineClearance) | [预览](./egret-mineClearance) |
+| [僵尸扫射](https://krapnikkk.github.io/egret-game/egret-zombieShooter) |  [预览](./egret-zombieShooter) |
+| [成语大作战](https://krapnikkk.github.io/egret-game/egret-crosswordt) | [预览](./egret-crossword) |
 
 
 [/placeholder]:p
